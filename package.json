@@ -1,7 +1,7 @@
 {
-  "name": "vue-remita",
-  "version": "1.1.0",
-  "description": "Vue Remita Component for Vue 2.x.",
+  "name": "@chiddy/vue-remita",
+  "version": "1.1.1",
+  "description": "Vue Remita Component for Vue 3.x.",
   "main": "dist/remita.min.js",
   "scripts": {
     "lint": "eslint src --ext=js,vue  || exit 0",
@@ -21,7 +21,7 @@
     "Remita",
     "Vue",
     "Vuejs",
-    "Vue 2",
+    "Vue 3",
     "Payment Gateway"
   ],
   "author": "Adavize Ozorku",
@@ -41,14 +41,14 @@
     "eslint-plugin-vue": "^5.2.2",
     "standard": "^12.0.1",
     "uglifyjs-webpack-plugin": "^2.1.2",
-    "vue": "^2.6.7",
-    "vue-loader": "^15.6.4",
+    "vue": "^3.2.37",
+    "vue-loader": "^16.8.3",
     "vue-template-compiler": "^2.6.7",
     "webpack": "^4.29.6",
     "webpack-cli": "^3.2.3",
     "webpack-dev-server": "^3.2.1"
   },
   "dependencies": {
-    "vue": "^2.6.7"
+    "vue": "^3.2.37"
   }
 }
